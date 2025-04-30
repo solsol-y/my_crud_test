@@ -28,4 +28,15 @@
 - 7교시 ~ 8교시에 걸쳐 README.md 작성
 - 마크다운 문법 학습 및 적용
 
---
+---
+## 📂 폴더 구조
+```
+./
+├── README.md                   # 프로젝트 설명 문서    
+├── app.py                      # Streamlit 메인 코드
+├── mysql_crud_final.ipynb      # SQLite3 DB 파일
+├── requirements.txt            # 필요한 라이브러리 목록     
+├── temp.py
+```
+
+📸 대시보드 예시 화면
