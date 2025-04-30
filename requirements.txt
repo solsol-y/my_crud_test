@@ -1,0 +1,16 @@
+numpy
+pandas
+jupyterlab
+matplotlib
+seaborn
+openpyxl
+xlrd
+plotly
+streamlit
+yfinance
+missingno
+scipy
+statsmodels
+pymssql==2.3.2
+mysql-connector-python   # 안됨  sqlite3 배포 할때 사용 못함. 이유 : streamlit에서는 DB 설정 한계 없음
+python-dotenv
