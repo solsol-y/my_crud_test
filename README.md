@@ -1,4 +1,4 @@
-# mysql_crud
+# mysql_crud_test
 
 # 첫번째 미션
 -- sqlite3 생성 후, classicmodels 쿼리 추가 하는 방법
